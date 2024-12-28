@@ -1,0 +1,9 @@
+os
+json
+tkinter
+matplotlib==3.7.0
+numpy==1.24.2
+openpyxl==3.1.2
+pandas==1.5.3
+Pillow==9.4.0
+reportlab==4.2.5
