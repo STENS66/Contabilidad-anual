@@ -1,0 +1,39 @@
+Contabilidad Anual - Versión Española 1.7
+
+Copyright © Gaëtan Sencie 2023
+Todos los derechos reservados.
+
+El presente software y todos los archivos asociados (en adelante, el "Software") son propiedad exclusiva de Gaëtan Sencie (en adelante, el "Autor"). El Software está protegido por las leyes belgas e internacionales de derechos de autor, así como por los convenios internacionales.
+
+1. Derechos de uso:
+
+El Usuario está autorizado a utilizar el Software exclusivamente para fines personales. Cualquier distribución, copia, modificación o uso comercial del Software, total o parcial, está estrictamente prohibido sin el consentimiento previo y por escrito del Autor. El uso personal excluye explícitamente cualquier actividad comercial, incluso si se realiza de forma gratuita.
+
+2. Redistribución:
+
+La redistribución del Software, ya sea en su forma original o modificada, está prohibida sin el consentimiento expreso del Autor. Cualquier intento de vender, alquilar, prestar o transferir el Software a un tercero sin el acuerdo del Autor constituye una infracción de los derechos de autor.
+
+3. Modificaciones:
+
+El Usuario no está autorizado a modificar, descompilar, desensamblar o realizar ingeniería inversa sobre el Software, total o parcialmente.
+
+4. Exclusión de garantías:
+
+El Software se proporciona "tal cual", sin ningún tipo de garantía, expresa o implícita, incluidas, pero no limitadas a, las garantías de comerciabilidad, idoneidad para un propósito particular o no infracción. El Autor no será responsable en ningún caso por daños directos o indirectos, incluidos daños incidentales, consecuentes o especiales, derivados del uso o la incapacidad de uso del Software. Al utilizar el Software, el Usuario reconoce y acepta que el Software se proporciona "tal cual".
+
+5. Duración de la protección:
+
+El Software está protegido por derechos de autor durante un período de 70 años a partir del fallecimiento del Autor, de acuerdo con la legislación belga.
+
+6. Litigios:
+
+Cualquier disputa relacionada con este acuerdo estará sujeta a la jurisdicción exclusiva de los tribunales belgas competentes, de acuerdo con las leyes vigentes en Bélgica.
+
+
+Para cualquier solicitud de autorización o información adicional, póngase en contacto con el Autor en la siguiente dirección: app.sencie@gmail.com
+
+
+El presente acuerdo constituye la totalidad del acuerdo entre el Usuario y el Autor en relación con el uso del Software y reemplaza cualquier acuerdo previo.
+
+
+Hecho en Boncelles (Bélgica), 2023.
