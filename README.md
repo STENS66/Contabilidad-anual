@@ -39,3 +39,19 @@ Después de descargar el archivo ejecutable, haz doble clic en el archivo para i
 Para cualquier pregunta o asistencia adicional, puedes contactarme en la dirección de correo electrónico: app.sencie@gmail.com.
 
 ¡Gracias por usar "Contabilidad Anual"!
+
+---
+
+### Apoyo financiero
+
+**Dirección pública TRX :** TTcyoteRToZjoYhtuKYQ14FWeq1wicKNrF
+
+**Via Trust Wallet :** [Lien Trust Wallet](https://link.trustwallet.com/send?coin=195&address=TTcyoteRToZjoYhtuKYQ14FWeq1wicKNrF)
+
+**Dirección pública BTC :** bc1qv6403rkpev4yk90z8knq57uzcvrvw03cnywk3j
+
+**Via Trust Wallet :** [Lien Trust Wallet](https://link.trustwallet.com/send?coin=0&address=bc1qv6403rkpev4yk90z8knq57uzcvrvw03cnywk3j)
+
+**Dirección pública SOL :** E2pmKA93wogncFE9hWqfQyWfXY2Q8kJNaogssdxccbHD
+
+**Via Trust Wallet :** [Lien Trust Wallet](https://link.trustwallet.com/send?coin=501&address=E2pmKA93wogncFE9hWqfQyWfXY2Q8kJNaogssdxccbHD)
