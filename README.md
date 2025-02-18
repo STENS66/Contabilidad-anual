@@ -1,4 +1,4 @@
-# Contabilidad Anual - Versión española 1.7
+# Contabilidad Anual - Versión española 1.8
 
 # Copyright © Gaëtan Sencie 2023
 # Todos los derechos reservados.
