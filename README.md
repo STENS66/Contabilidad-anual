@@ -1,4 +1,4 @@
-# Contabilidad Anual - Versión española 1.8
+# Contabilidad Anual Simple (anteriormente Contabilidad Anual) - Versión española 1.9
 
 # Copyright © Gaëtan Sencie 2023
 # Todos los derechos reservados.
@@ -6,6 +6,7 @@
 ## Descripción
 
 El programa "Contabilidad Anual" es un software de contabilidad simple y ligero que permite tener una vista rápida de los ingresos y gastos de dinero para cada mes.
+A partir de la versión 1.9, la aplicación 'Contabilidad Anual' ha sido renombrada como 'Contabilidad Anual Simple' para garantizar una mayor coherencia con la nomenclatura de otros proyectos.
 
 ### Funcionalidades
 
@@ -38,7 +39,7 @@ Después de descargar el archivo ejecutable, haz doble clic en el archivo para i
 
 Para cualquier pregunta o asistencia adicional, puedes contactarme en la dirección de correo electrónico: app.sencie@gmail.com.
 
-¡Gracias por usar "Contabilidad Anual"!
+¡Gracias por usar "Contabilidad Anual Simple"!
 
 ---
 
