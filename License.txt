@@ -1,4 +1,4 @@
-Contabilidad Anual - Versión Española 1.8
+Contabilidad Anual Simple - Versión Española 1.9
 
 Copyright © Gaëtan Sencie 2023
 Todos los derechos reservados.
@@ -36,4 +36,4 @@ Para cualquier solicitud de autorización o información adicional, póngase en 
 El presente acuerdo constituye la totalidad del acuerdo entre el Usuario y el Autor en relación con el uso del Software y reemplaza cualquier acuerdo previo.
 
 
-Hecho en Boncelles (Bélgica), 2023.
+Hecho en Boncelles (Bélgica), 2025.
